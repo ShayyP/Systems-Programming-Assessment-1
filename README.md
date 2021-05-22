@@ -1,2 +1,2 @@
 # Systems Programming Assessment 1
-Simple graphics engine written in assembly language
+Simple graphics operating system written in assembly language
